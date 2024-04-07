@@ -88,6 +88,12 @@ p {
   cursor: pointer;
 }
 
+#avatar {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+}
+
 #search-bar {
   border: 1px solid var(--cor-border);
   border-right: none;
